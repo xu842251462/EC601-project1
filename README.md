@@ -1,3 +1,3 @@
 # EC601-project1
-# Bin Xu
-# Topic: Delivery Bot
+  Bin Xu
+  Topic: Delivery Bot
