@@ -50,7 +50,7 @@ Different base path planning algorithm
 
 Most geometrical route planning algorithms can be considered either grid-based or graphic-based in nature. Each type of algorithm has its own associated advantages and disadvantages.
 For grid-based route planning, it is good to finish analyzing in real-time. But this approach has difficulty in finding the maximum route distance and maximum turning angle. The grid-base map is shown in figure 1. A digitized grid consisting of square cells of equal size represents the environment in which the route planning is performed. The size of the environment (or path planning workspace) is m £ n grid cells(3). A route is planned from the starting point in the grid,  each grid cell corresponds to a particular location in the environment. A cost estimation step establishes a “cost” value for a particular cell, corresponding to the cost incurred by traveling through that particular region(3). 
-
+![alt text](https://github.com/xu842251462/EC601_2022fall/blob/main/Capture.PNG)
 For graphic-based route planning, it is more accurate but is hard to be applied in the real-time situation. When a robot accepts the image on the driveway, it is good to classify the feature by the deep learning algorithm. The problem is that analyzing images takes a long time to classify the object. This is hard for delivery robots to finish in real-time. 
 
 Combination of grid-base and graph-based approach
