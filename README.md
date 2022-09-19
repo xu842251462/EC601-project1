@@ -56,6 +56,7 @@ For graphic-based route planning, it is more accurate but is hard to be applied 
 Combination of grid-base and graph-based approach
 
 From the above research on the path planning algorithm, in order to combine the advantage of two based approaches in the further research I plan to use both approaches in my research paper. The goal of the optimized path planning algorithm is to improve the time-consumption on the path planning and is possible to be applied in real-time. Using the grid-base approach to calculate the rough route planning at first, then using real images to adjust the turning angle and avoid the obstacles in real-time.
+
 References
 
 L. Fridman et al., "MIT Advanced Vehicle Technology Study: Large-Scale Naturalistic Driving Study of Driver Behavior and Interaction With Automation," in IEEE Access, vol. 7, pp. 102021-102038, 2019, doi: 10.1109/ACCESS.2019.2926040.
